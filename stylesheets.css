@@ -40,15 +40,15 @@
 }
 
 .emptySquare {
-    background-color: #6d71b5;
+    background-color: #003f69;
 }
 
 .snakeSquare {
-    background-color: #e3e773;
+    background-color: #157a8c;
     border: 1px solid #000;
 }
 
 .foodSquare {
-    background-color: #55e7e7;
+    background-color: #b3aca4;
     border: 1px solid #000;
 }
